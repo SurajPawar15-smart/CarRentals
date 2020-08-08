@@ -6,7 +6,7 @@
 #</head>
 #<body>
 
-#<a href="{% static 'http://carrentals.pythonanywhere.com/' %}">CarRentals</a>
+#<a href="http://carrentals.pythonanywhere.com/ ">CarRentals</a>
 
 #</body>
 #</html>
