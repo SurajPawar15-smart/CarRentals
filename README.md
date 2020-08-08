@@ -1,12 +1,12 @@
 # CarRentals
-<!DOCTYPE html>
-<html>
-<head>
-<title>CarRentals</title>
-</head>
-<body>
+#<!DOCTYPE html>
+#<html>
+#<head>
+#<title>CarRentals</title>
+#</head>
+#<body>
 
-<a href="{% static 'http://carrentals.pythonanywhere.com/' %}">CarRentals</a>
+#<a href="{% static 'http://carrentals.pythonanywhere.com/' %}">CarRentals</a>
 
-</body>
-</html>
+#</body>
+#</html>
